@@ -1,5 +1,5 @@
 # 2020 so far: are Reddit users more depressed than before?
-This project explores the activity of several depression-related subreddits over the past three years and tries to asnwer the question if its user base has been more depressed lately.
+This project explores the activity of several depression-related subreddits over the past three years and tries to answer the question if its user base has been more depressed lately.
 
 The data was analysed and visualised employing a variety of Python librararies, sich as pandas and NumPy. Included is a Jupyter notebook with a fully annotated code, as well as interpretion of the results. Enjoy reading it.
 
